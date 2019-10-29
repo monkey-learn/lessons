@@ -1,5 +1,5 @@
-* [x] Github, Bitbucket
-* [x] Docker
+* [ ] Github, Bitbucket
+* [ ] Docker
 * [ ] Doctrine
 * [ ] Паттерны проектирования
 * [ ] IDE (PHP Storm, плюшки)
